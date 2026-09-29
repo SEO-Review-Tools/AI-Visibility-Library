@@ -42,7 +42,7 @@ PHP 8.1+ is recommended. The cURL extension is required.
 
 Open:
 
-`public/settings.php`
+`config/settings.php`
 
 Save your API key, default location, timeout and SSL setting. For production, protect this page with your own authentication or remove it after configuring the library.
 
